@@ -13,3 +13,13 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#Stuff added from p 26 from Ruby on Rails 3 tutorial
+/*.log
+/tmp/**/*
+/tmp/*
+/doc/api
+/doc/app
+/*.swp
+/*~
+/DS_Store
